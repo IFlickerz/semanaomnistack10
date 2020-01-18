@@ -4,7 +4,7 @@
 ## 💻 Tecnologias
 
   * JavaScript
-  * NodeJS
-  * ReactJS
+  * Node.js
+  * React
   * React Native
   
